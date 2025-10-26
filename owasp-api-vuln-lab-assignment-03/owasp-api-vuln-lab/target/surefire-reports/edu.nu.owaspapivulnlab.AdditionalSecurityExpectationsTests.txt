@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: edu.nu.owaspapivulnlab.AdditionalSecurityExpectationsTests
--------------------------------------------------------------------------------
-Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 85.48 s -- in edu.nu.owaspapivulnlab.AdditionalSecurityExpectationsTests
